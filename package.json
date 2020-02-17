@@ -1,5 +1,5 @@
 {
-  "name": "redux-test",
+  "name": "coffee",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -11,6 +11,7 @@
   },
   "private": true,
   "dependencies": {
+    "@angular-redux/store": "^9.0.0",
     "@angular/animations": "~8.2.7",
     "@angular/common": "~8.2.7",
     "@angular/compiler": "~8.2.7",
@@ -19,6 +20,17 @@
     "@angular/platform-browser": "~8.2.7",
     "@angular/platform-browser-dynamic": "~8.2.7",
     "@angular/router": "~8.2.7",
+    "@ng-bootstrap/ng-bootstrap": "^5.2.1",
+    "@ngrx/core": "^1.2.0",
+    "@ngrx/effects": "^8.6.0",
+    "@ngrx/store": "^8.6.0",
+    "aos": "^2.3.4",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "ng-redux": "^4.4.1",
+    "ng2-go-top-button": "^8.0.1",
+    "ngrx-store-logger": "^0.2.4",
+    "ngx-pagination": "^5.0.0",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"

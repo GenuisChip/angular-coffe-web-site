@@ -1,0 +1,30 @@
+.red-head{
+    height: 80px;
+    background: rgb(220,77,69);
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+.nav-top-bar{
+    height: 100px;
+    padding-top: 25px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+
+.dropdown>.dropdown-menu {
+    background-color: white;
+    top: 200%;
+    transition: 0.3s all ease-in-out;
+  }
+  .dropdown:hover>.dropdown-menu {
+    display: block;
+    top: 100%;
+  }
+  
+  .dropdown>.dropdown-toggle:active {
+    /*Without this, clicking will make it sticky*/
+      pointer-events: none;
+  }

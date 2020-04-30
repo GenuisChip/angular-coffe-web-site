@@ -26,7 +26,7 @@
     "@ngrx/store": "^8.6.0",
     "aos": "^2.3.4",
     "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ng-redux": "^4.4.1",
     "ng2-go-top-button": "^8.0.1",
     "ngrx-store-logger": "^0.2.4",
